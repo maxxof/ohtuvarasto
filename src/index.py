@@ -18,6 +18,9 @@ def main():
     print("Lisätään 50.7")
     mehua.lisaa_varastoon(50.7)
     print(f"Mehuvarasto: {mehua}")
+    print("breaking the lint")
+    print("breaking the lint")
+    print("breaking the lint")
 
 if __name__ == "__main__":
     main()
